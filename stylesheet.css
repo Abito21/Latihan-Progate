@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: "Lucida Grande";
   }
-  
+
   a {
     text-decoration: none;
   }
@@ -42,16 +42,16 @@ body {
   }
   
   .signup {
-    background-color: #239b76;
+    background-color: #168b68;
   }
   
   .facebook {
-    background-color: #3b5998;
+    background-color: #224798;
     margin-right: 10px;
   }
   
   .twitter {
-    background-color: #55acee;
+    background-color: #4ca9f0;
   }
   
   .btn {
